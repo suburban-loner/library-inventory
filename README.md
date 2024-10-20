@@ -1,7 +1,6 @@
 # Library-Inventory
 A library inventory program. Allowing you to check inventory, add or remove books from your inventory, search for specific books in inventory using: book title, publishing year, or author name.
 
-Bookstore Clerk Program
 This is a simple command-line application for a bookstore clerk to manage a collection of books. The program allows the clerk to perform the following operations:
 
 Add new books to the database
